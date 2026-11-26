@@ -1,6 +1,3 @@
-# eclipsing-binary-lightcurve-toolkit
-Reproducible Python scripts for Lomb-Scargle periodograms, phase folding, and O-C orbital period analysis of close and contact eclipsing binaries.
-
 # Eclipsing Binary Light-Curve & O-C Analysis Toolkit
 
 A modular collection of reproducible Python scripts for time-series photometric analysis of close, contact, and eclipsing binary star systems, developed by **Dr. Ravi Raja Pothineni** (Department of Astronomy, Osmania University).
