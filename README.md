@@ -1,6 +1,6 @@
 # Eclipsing Binary Light-Curve & O-C Analysis Toolkit
 
-A modular collection of reproducible Python scripts for time-series photometric analysis of close, contact, and eclipsing binary star systems, developed by **Dr. Ravi Raja Pothineni** (Department of Astronomy, Osmania University).
+A modular collection of reproducible Python scripts for time-series photometric analysis of close, contact, and eclipsing binary star systems.
 
 Built to support transparent, scripted workflows alongside standard astrophysical modelling tools, this toolkit helps researchers and students inspect multi-epoch light curves, test orbital period stability, and diagnose candidate third bodies or magnetic activity cycles.
 
